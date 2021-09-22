@@ -1,4 +1,4 @@
-package PetManegment;
+package petManegment;
 
 public class Dog {
 	

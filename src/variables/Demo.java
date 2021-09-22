@@ -7,6 +7,9 @@ public class Demo {
 		byte x;
 		int a = 270;
 		double b = 128.128;
+		String tekst = "tekst";
+		
+		System.out.println(tekst);
 		
 		
 		//cast exaple
