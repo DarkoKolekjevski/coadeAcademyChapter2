@@ -7,7 +7,7 @@ public class Hospital {
 		Surgeon s = new Surgeon();
 		//method fromSurgeon class
 		s.getSurgeonDetails();
-		//overrided method		
+		//override method		
 		s.getDoctorDetails();
 		
 		Doctor d = new Surgeon();
@@ -31,7 +31,7 @@ public class Hospital {
 		Doctor newDoc = new Doctor();
 		newDoc.setName("Zan");
 		newDoc.setSurname("Mitrev");
-		newDoc.setSpeciality("Cardiolgist");
+		newDoc.setSpeciality("Cardiologist");
 		
 		System.out.println("===================================================================================================================================");
 		

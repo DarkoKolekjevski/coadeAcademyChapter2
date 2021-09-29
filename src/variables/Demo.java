@@ -12,7 +12,7 @@ public class Demo {
 		System.out.println(tekst);
 		
 		
-		//cast exaple
+		//cast example
 		System.out.println("int converted to byte");
 		
 		x = (byte) a;
@@ -20,7 +20,7 @@ public class Demo {
 		System.out.println("a ="+ a);
 		System.out.println("x ="+ x);
 		
-		System.out.println("double converted to integer");
+		System.out.println("Double converted to Integer");
 		
 		a = (int) b;
 		
