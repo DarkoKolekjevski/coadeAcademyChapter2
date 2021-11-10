@@ -4,7 +4,6 @@ import java.util.Arrays;
 
 public class Exercise7 {
 	
-	
 	// Write a Java program to remove a specific element from an array.
 
 		public static void main(String[] args) {
@@ -60,6 +59,5 @@ public class Exercise7 {
 
 			return null;
 		}
+
 }
-	
-	

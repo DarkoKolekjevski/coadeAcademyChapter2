@@ -25,7 +25,7 @@ public class NiziExample2 {
 			
 			System.out.println("i =" +i);
 			System.out.println("array[" + i + "]=" + array[i]);
-
+ 
 			
 			
 		}
